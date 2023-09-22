@@ -1,4 +1,4 @@
-# Three.js Journey
+# Trippy D Text
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
